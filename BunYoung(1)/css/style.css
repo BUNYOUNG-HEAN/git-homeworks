@@ -1,0 +1,26 @@
+#main-header{
+    background-color:rgb(0, 255, 242) ;
+    text-align: center;
+    color: blue;
+    padding: 20px;
+    border-bottom: 5px solid blue ;
+}
+#intro{
+    border: solid 1px;
+    padding: 20px;
+    margin-top: 0PX;
+}
+#features{
+    background-color: rgb(152, 230, 74);
+    border: solid 1px;
+    padding: 20px;
+    margin-top:15px;
+}
+#main-footer{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid gray;
+    margin-top: 15px;
+    background-color: palevioletred;
+    border-top: 2px solid red;
+}
